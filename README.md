@@ -1,2 +1,2 @@
 # SemanaPython-EmpowerData
-Semana de Imersão na EmpowerData + 4 projetos.
+Semana de Imersão de Python na EmpowerData + 4 projetos.
